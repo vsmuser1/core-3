@@ -1,3 +1,3 @@
-node(ven-label){
+node('maven-label'){
 
 }
